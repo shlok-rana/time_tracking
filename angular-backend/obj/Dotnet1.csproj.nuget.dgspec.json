@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD:angular-backend/obj/Dotnet1.csproj.nuget.dgspec.json
     "C:\\Users\\Jay\\Desktop\\time_tracking\\angular-backend\\Dotnet1.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\Jay\\Desktop\\time_tracking\\angular-backend\\Dotnet1.csproj",
         "packagesPath": "C:\\Users\\Jay\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Jay\\Desktop\\time_tracking\\angular-backend\\obj\\",
+=======
+    "C:\\Users\\Jay\\Desktop\\time_tracking\\angular-backend\\Dotnet1\\Dotnet1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Jay\\Desktop\\time_tracking\\angular-backend\\Dotnet1\\Dotnet1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jay\\Desktop\\time_tracking\\angular-backend\\Dotnet1\\Dotnet1.csproj",
+        "projectName": "Dotnet1",
+        "projectPath": "C:\\Users\\Jay\\Desktop\\time_tracking\\angular-backend\\Dotnet1\\Dotnet1.csproj",
+        "packagesPath": "C:\\Users\\Jay\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jay\\Desktop\\time_tracking\\angular-backend\\Dotnet1\\obj\\",
+>>>>>>> b290b62f6b657d423e21d49c1b1cce62f5ac2e42:angular-backend/Dotnet1/obj/Dotnet1.csproj.nuget.dgspec.json
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jay\\AppData\\Roaming\\NuGet\\NuGet.Config"

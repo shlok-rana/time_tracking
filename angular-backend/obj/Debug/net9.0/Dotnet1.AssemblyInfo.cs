@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dotnet1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD:angular-backend/obj/Debug/net9.0/Dotnet1.AssemblyInfo.cs
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54c64a0661d24a832307609e1112a4edf5d12ac6")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ed5e297951010a59347cd4e7748820a36172038")]
+>>>>>>> b290b62f6b657d423e21d49c1b1cce62f5ac2e42:angular-backend/Dotnet1/obj/Debug/net9.0/Dotnet1.AssemblyInfo.cs
 [assembly: System.Reflection.AssemblyProductAttribute("Dotnet1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dotnet1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

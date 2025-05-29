@@ -3073,11 +3073,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD:angular-backend/obj/project.assets.json
       "projectUniqueName": "C:\\Users\\Jay\\Desktop\\time_tracking\\angular-backend\\Dotnet1.csproj",
       "projectName": "Dotnet1",
       "projectPath": "C:\\Users\\Jay\\Desktop\\time_tracking\\angular-backend\\Dotnet1.csproj",
       "packagesPath": "C:\\Users\\Jay\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Jay\\Desktop\\time_tracking\\angular-backend\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\Jay\\Desktop\\time_tracking\\angular-backend\\Dotnet1\\Dotnet1.csproj",
+      "projectName": "Dotnet1",
+      "projectPath": "C:\\Users\\Jay\\Desktop\\time_tracking\\angular-backend\\Dotnet1\\Dotnet1.csproj",
+      "packagesPath": "C:\\Users\\Jay\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jay\\Desktop\\time_tracking\\angular-backend\\Dotnet1\\obj\\",
+>>>>>>> b290b62f6b657d423e21d49c1b1cce62f5ac2e42:angular-backend/Dotnet1/obj/project.assets.json
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jay\\AppData\\Roaming\\NuGet\\NuGet.Config"
